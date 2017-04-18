@@ -1,7 +1,3 @@
-body {
-  font-family: sans-serif;
-}
-
 h1 {
   color: #0000ff;
 }
@@ -12,10 +8,11 @@ h2 {
 }
 
 p {
-  font-family: serif;
+  font-family: sans-serif;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+  font-family: Comic Sans MS, monospace;
 }
